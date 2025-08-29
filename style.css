@@ -361,5 +361,5 @@ background: linear-gradient(to top right, #4568dc, #b06ab3);
 }
 
 #pixel-art-container .cell:nth-child(400) {
-  background-color: orange;
+  background-color: yellow;
 }
